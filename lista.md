@@ -9,7 +9,7 @@ Wollok
 
 
 Lista de Tiziano
-C#/n
+C#
 Python
 Css
 Java
