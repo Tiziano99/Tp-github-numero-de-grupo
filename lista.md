@@ -1,4 +1,20 @@
+<<<<<<< HEAD
 Lista de Vero
+=======
+eee
+
+
+
+
+hola como les va
+
+
+
+
+uu que mal eso
+=======
+la verdad que mal
+>>>>>>> d2709d47c6ea0463d06458703c710ec217c067b0
 
 
 
@@ -28,19 +44,24 @@ Java
 
 Pearl
 
+aaa
 
+<<<<<<< HEAD
 
 Lista de Paises a Bombardear (BADII)
+=======
+Lista de badii
+>>>>>>> d2709d47c6ea0463d06458703c710ec217c067b0
 
-1- Israel
+1- Wollok
 
-2- Francia
+2- BrainFuck
 
-3- Peru
+3- Grass
 
-4- Corea del Sur
+4- Python
 
-5- Inglaterra
+5- Cow
 
 Lista de Lenguajes de Programacion (Castañeda)
 
