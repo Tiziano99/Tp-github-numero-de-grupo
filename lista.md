@@ -38,3 +38,15 @@ Lista de Lenguajes de Programacion (Castañeda)
 3-Postscript
 4-Erlang
 5-Scala
+
+lista de fer
+
+1- Ruby 
+
+2- C#
+
+3- JS
+
+4- Goland
+
+5- Shakespeare
