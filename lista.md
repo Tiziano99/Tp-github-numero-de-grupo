@@ -6,8 +6,12 @@ eee
 hola como les va
 
 
+<<<<<<< HEAD
 
 uu que mal eso
+=======
+la verdad que mal
+>>>>>>> fcecad3cb3e6bb084cfe7496b3be8bca4905ff59
 
 
 Lista de Lenguajes (Ruiz)
