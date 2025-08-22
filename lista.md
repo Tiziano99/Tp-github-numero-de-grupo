@@ -24,17 +24,17 @@ Java
 Pearl
 
 
-Lista de Paises a Bombardear (BADII)
+Lista de badii
 
-1- Israel
+1- Wollok
 
-2- Francia
+2- BrainFuck
 
-3- Peru
+3- Grass
 
-4- Corea del Sur
+4- Python
 
-5- Inglaterra
+5- Cow
 
 Lista de Lenguajes de Programacion (Castañeda)
 
