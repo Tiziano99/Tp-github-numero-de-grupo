@@ -17,11 +17,11 @@ C#
 
 Python
 
-Css
+Rust
 
 Java
 
-Html
+Pearl
 
 
 Lista de Paises a Bombardear (BADII)
