@@ -1,3 +1,19 @@
+eee
+
+
+
+
+hola como les va
+
+
+<<<<<<< HEAD
+
+uu que mal eso
+=======
+la verdad que mal
+>>>>>>> fcecad3cb3e6bb084cfe7496b3be8bca4905ff59
+
+
 Lista de Lenguajes (Ruiz)
 
 Python
@@ -23,20 +39,24 @@ Java
 
 Pearl
 
+<<<<<<< HEAD
 aaaa
 
+=======
+aaa
+>>>>>>> 84c3bc8780c2f278a97216b622edd8baff6ecc0a
 
-Lista de Paises a Bombardear (BADII)
+Lista de badii
 
-1- Israel
+1- Wollok
 
-2- Francia
+2- BrainFuck
 
-3- Peru
+3- Grass
 
-4- Corea del Sur
+4- Python
 
-5- Inglaterra
+5- Cow
 
 Lista de Lenguajes de Programacion (Castañeda)
 
