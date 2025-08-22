@@ -1,3 +1,7 @@
+Lista de Vero
+
+
+
 Lista de Lenguajes (Ruiz)
 
 Python
@@ -11,6 +15,7 @@ C++
 Wollok
 
 
+
 Lista de Tiziano
 
 C#
@@ -22,6 +27,7 @@ Rust
 Java
 
 Pearl
+
 
 
 Lista de Paises a Bombardear (BADII)
@@ -39,6 +45,7 @@ Lista de Paises a Bombardear (BADII)
 Lista de Lenguajes de Programacion (Castañeda)
 
 
+
 1-Swift
 2-Kotlin
 3-Postscript
@@ -47,7 +54,7 @@ Lista de Lenguajes de Programacion (Castañeda)
 
 lista de fer
 
-1- Ruby 
+1- Ruby
 
 2- C#
 
@@ -56,3 +63,4 @@ lista de fer
 4- Goland
 
 5- Shakespeare
+
