@@ -1,4 +1,4 @@
-Lista de Lenguajes(Ruiz)
+Lista de Lenguajes (Ruiz)
 
 Python
 
